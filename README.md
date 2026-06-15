@@ -1,5 +1,7 @@
 # Cross-Tokenizer Scoring
 
+Implementation of our ICLR 2026 paper: https://openreview.net/forum?id=hD69qj15Os
+
 Utilities for generating cross-tokenizer distillation data between Qwen subtoken scores and target-tokenized outputs.
 
 ## Scoring Gemma2 Tokenizer using Qwen2.5 on GSM8K
